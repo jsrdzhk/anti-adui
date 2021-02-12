@@ -1,0 +1,59 @@
+{
+  "miui": {
+    "ad": [
+      "com.miui.systemAdSolution",
+      "com.miui.analytics"
+    ],
+    "game": [
+      "com.xiaomi.gamecenter.sdk.service",
+      "com.xiaomi.gamecenter"
+    ],
+    "input_method": [
+      "com.sohu.inputmethod.sogou.xiaomi"
+    ],
+    "media": [
+      "com.miui.player",
+      "com.miui.video",
+      "com.miui.gallery",
+      "com.miui.yellowpage"
+    ],
+    "tool": [
+      "com.miui.notes",
+      "com.android.email",
+      "com.xiaomi.scanner"
+    ],
+    "third_party": [
+      "com.miui.translation.youdao",
+      "com.miui.translation.kingsoft"
+    ],
+    "bug_report": [
+      "com.miui.bugreport",
+      "com.miui.klo.bugreport"
+    ],
+    "browser": [
+      "com.android.browser"
+    ],
+    "global_service": [
+      "com.miui.virtualsim"
+    ],
+    "pay": [
+      "com.xiaomi.payment",
+      "com.mipay.wallet",
+      "com.xiaomi.pass"
+    ],
+    "assistant": [
+      "com.miui.voiceassist"
+    ],
+    "theme": [
+      "com.android.thememanager",
+      "com.android.wallpaper.livepicker",
+      "com.android.wallpaper"
+    ],
+    "unknown": [
+      "com.miui.hybrid",
+      "com.milink.service",
+      "com.miui.touchassistant",
+      "com.xiaomi.mitunes"
+    ]
+  }
+}
